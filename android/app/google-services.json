@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564747683286",
+    "project_id": "tax-flutter",
+    "storage_bucket": "tax-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564747683286:android:47c0ba5b442b0150e5d077",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_tx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAmHN8Z137YBq5IpsTC_5ATobQoCy7fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
